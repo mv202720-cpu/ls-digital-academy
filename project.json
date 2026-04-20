@@ -1,0 +1,25 @@
+{
+  "overview": "Premium single-page marketing website for LS Digital Academy — a job-oriented computer training institute in Karawal Nagar, Delhi. Features a conversion-focused hero, 11 course cards with pricing, degree programs grid, testimonials, admission and contact forms, and sticky conversion buttons (WhatsApp & Call Now).",
+  "features": [
+    "Sticky navigation with mobile hamburger menu",
+    "Hero with CTAs, trust indicators, and 4.8 rating badge",
+    "11 course cards with duration, skills, pricing, and Enroll Now CTA",
+    "16 degree program badges in grid layout",
+    "About Us, Why Choose Us, and Testimonials sections",
+    "Image gallery with classroom and student placeholders",
+    "Admission and contact forms with success feedback",
+    "Floating WhatsApp button with pre-filled message",
+    "Mobile sticky Call Now button",
+    "Dark Blue + Orange color scheme with smooth animations"
+  ],
+  "category": "education",
+  "tags": [
+    "education",
+    "training",
+    "computer-courses",
+    "delhi",
+    "landing-page",
+    "institute-website"
+  ],
+  "last_updated": "2026-04-20T15:33:25.701Z"
+}
